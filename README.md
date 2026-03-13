@@ -14,3 +14,52 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Jedd.
+
+I'm an aspiring software engineer interested in backend systems, recommendation systems, and building useful developer-focused tools.
+Right now, I'm focused on improving my backend engineering skills by building deployable applications and learning more about system design.
+
+---
+
+## Current Project
+
+### AniRec
+AniRec is an anime recommendation and tracking platform.
+
+Features:
+- track watched anime and ratings
+- hybrid recommendation system combining semantic similarity and collaborative filtering
+- REST API for recommendations and user data
+- full-stack interface for managing anime lists
+
+Tech:
+Java, Spring Boot, Python, FastAPI, React, PostgreSQL
+
+---
+
+## Currently Working On
+
+- Improving AniRec's recommendation pipeline
+- Learning more about UI/UX design and distributed systems
+- Exploring future project ideas
+
+---
+
+## Interests
+
+- bouldering
+- anime
+- gaming
+
+---
+
+## Future Project Ideas
+
+- Root board state analysis engine
+- climbing session tracker and analytics tool
+
+---
+
+I'm currently interested in software engineering roles and am always open to connecting with others.
+
