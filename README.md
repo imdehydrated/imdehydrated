@@ -22,22 +22,6 @@ Right now, I'm focused on improving my backend engineering skills by building de
 
 ---
 
-## Current Project
-
-### AniRec
-AniRec is an anime recommendation and tracking platform.
-
-Features:
-- track watched anime and ratings
-- hybrid recommendation system combining semantic similarity and collaborative filtering
-- REST API for recommendations and user data
-- full-stack interface for managing anime lists
-
-Tech:
-Java, Spring Boot, Python, FastAPI, React, PostgreSQL
-
----
-
 ## Currently Working On
 
 - Improving AniRec's recommendation pipeline
