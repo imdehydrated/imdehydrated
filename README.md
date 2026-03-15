@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 Hi, I'm Jedd.
 
-I'm an aspiring software engineer interested in backend systems, recommendation systems, and building useful developer-focused tools.
+I'm a software engineer interested in backend systems, distributed systems, and reliable infrastructure.
 Right now, I'm focused on improving my backend engineering skills by building deployable applications and learning more about system design.
 
 ---
 
 ## Currently Working On
 
+- Native mobile app for AniRec
 - Improving AniRec's recommendation pipeline
-- Learning more about UI/UX design and distributed systems
+- Learning Golang for building high-performance distributed systems
 - Exploring future project ideas
 
 ---
@@ -45,5 +46,6 @@ Right now, I'm focused on improving my backend engineering skills by building de
 
 ---
 
-I'm currently interested in software engineering roles and am always open to connecting with others.
+I'm currently exploring various software engineering roles and am always open to connecting with others.
+Let's chat!
 
