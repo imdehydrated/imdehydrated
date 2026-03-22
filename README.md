@@ -26,7 +26,7 @@ Right now, I'm focused on improving my backend engineering skills by building de
 
 - Native mobile app for AniRec
 - Improving AniRec's recommendation pipeline
-- Learning Golang for building high-performance distributed systems
+- Building RootBuddy to develop Golang skills
 - Exploring future project ideas
 
 ---
