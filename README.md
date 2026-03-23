@@ -41,7 +41,6 @@ Right now, I'm focused on improving my backend engineering skills by building de
 
 ## Future Project Ideas
 
-- Root board state analysis engine
 - climbing session tracker and analytics tool
 
 ---
